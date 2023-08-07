@@ -1,21 +1,21 @@
 {
     "users": [
     {
-      "id": 1,
+      "id":1,
       "username":"Manuel",
       "valor":5
       "state":true 
       "deck":[1,2,3,4,5]
     },
     {
-      "id": 2,
+      "id":2,
       "nombre":"Daniel",
       "valor":3
       "state":true 
       "deck":[30,25,31,40,15]
     },
     {
-      "id": 3,
+      "id":3,
       "nombre":"Camilo",
       "valor":2
       "state":true 
