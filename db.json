@@ -9,14 +9,14 @@
     },
     {
       "id":2,
-      "nombre":"Daniel",
+      "username":"Daniel",
       "valor":3
       "state":true 
       "deck":[30,25,31,40,15]
     },
     {
       "id":3,
-      "nombre":"Camilo",
+      "username":"Camilo",
       "valor":2
       "state":true 
       "deck":[11,21,23,34,45]
