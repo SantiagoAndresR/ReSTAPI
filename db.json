@@ -1,0 +1,15 @@
+{
+  "cartas": [
+    {
+      "id": 1,
+      "nombre": "Carta 1",
+      "valor": 5
+    },
+    {
+      "id": 2,
+      "nombre": "Carta 2",
+      "valor": 3
+    },
+   
+  ]
+}
