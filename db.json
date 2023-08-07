@@ -2,32 +2,32 @@
   "cartas": [
     {
       "id": 1,
-      "nombre": "Carta 1",
+      "nombre": "Manuel",
       "valor": 5
     },
     {
       "id": 2,
-      "nombre": "Carta 2",
+      "nombre": "Daniel",
       "valor": 3
     },
     {
       "id": 3,
-      "nombre": "Carta 3",
+      "nombre": "Camilo",
       "valor": 2
     },
      {
       "id": 4,
-      "nombre": "Carta 4",
+      "nombre": "Andres",
       "valor": 1
     },
      {
       "id": 5,
-      "nombre": "Carta 5",
+      "nombre": "Laura",
       "valor": 6
     },
      {
       "id": 6,
-      "nombre": "Carta 6",
+      "nombre": "Natalia",
       "valor": 4
     },
   ]
