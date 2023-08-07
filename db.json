@@ -10,6 +10,25 @@
       "nombre": "Carta 2",
       "valor": 3
     },
-   
+    {
+      "id": 3,
+      "nombre": "Carta 3",
+      "valor": 2
+    },
+     {
+      "id": 4,
+      "nombre": "Carta 4",
+      "valor": 1
+    },
+     {
+      "id": 5,
+      "nombre": "Carta 5",
+      "valor": 6
+    },
+     {
+      "id": 6,
+      "nombre": "Carta 6",
+      "valor": 4
+    },
   ]
 }
