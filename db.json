@@ -1,34 +1,40 @@
 {
-  "cartas": [
+  "Usuarios": [
     {
       "id": 1,
       "nombre": "Manuel",
       "valor": 5
+      "state":true 
     },
     {
       "id": 2,
       "nombre": "Daniel",
       "valor": 3
+      "state":true 
     },
     {
       "id": 3,
       "nombre": "Camilo",
       "valor": 2
+      "state":true 
     },
      {
       "id": 4,
       "nombre": "Andres",
       "valor": 1
+       "state":true 
     },
      {
       "id": 5,
       "nombre": "Laura",
       "valor": 6
+       "state":true 
     },
      {
       "id": 6,
       "nombre": "Natalia",
       "valor": 4
+       "state":true 
     },
   ]
 }
